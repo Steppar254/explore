@@ -4,9 +4,9 @@ items:
  - turbulenz/turbulenz_engine
  - TorqueGameEngines/Torque3D
  - TorqueGameEngines/Torque2D
- - spring/spring
+ - spring/springs 
  - cocos2d/cocos2d-x
- - Gamua/Starling-Framework
+ - Gamua/Starling-Frameworks
  - gameplay3d/gameplay
  - jMonkeyEngine/jmonkeyengine
  - SFTtech/openage
